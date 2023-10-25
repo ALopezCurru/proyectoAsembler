@@ -26,7 +26,5 @@ fibo.
 ## Authors
 
 - [@ALopezCurru](https://github.com/ALopezCurru)
-## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
 
